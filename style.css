@@ -247,3 +247,30 @@
     line-height: 1.5;
     color: #fff;
   }
+  /* Style portfolio section */
+.portfolio {
+    padding: 100px 0;
+  }
+  
+  .portfolio h2 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .portfolio img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+    transition: 0.3s ease;
+  }
+  
+  @media (min-width: 768px) {
+    .portfolio img:hover {
+      transform: scale(1.05);
+    }
+  }

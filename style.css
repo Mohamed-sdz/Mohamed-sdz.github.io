@@ -112,3 +112,30 @@
   .btn :hover{
     padding: 100px 0;
   }
+  /* Style about section */
+.about {
+    padding: 100px 0;
+  }
+  
+  .about h2 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .about p {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+  
+  @media (min-width: 992px) {
+    .about p {
+      width: 80%;
+      margin: 0 auto 30px;
+    }
+  }

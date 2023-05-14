@@ -324,4 +324,17 @@
     background-color: #fff;
     color: #ed1c24;
   }
+  /* Style footer */
+#footer {
+    background-color: #2a2c2b;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+  }
   
+  @media (max-width: 767px) {
+    #footer {
+      padding: 20px 0;
+    }
+  }

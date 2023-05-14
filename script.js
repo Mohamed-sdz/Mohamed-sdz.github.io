@@ -16,4 +16,9 @@ navLinks.forEach(link => {
       });
     });
   });
-  
+     
+   const form = document.querySelector('form');
+   const nameInput = document.querySelector('#name');
+   const emailInput = document.querySelector('#email');
+   const messageInput = document.querySelector('#message');
+   const errorContainer = document.querySelector('#error-msg');

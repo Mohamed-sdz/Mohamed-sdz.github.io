@@ -24,9 +24,7 @@
 - Font Awesome - for the icon fonts used in the website
 - AOS - for the animation effects used in the website
  ## Video Demo
- https://youtu.be/i497I2KuM2w
- 
- 
+    https://www.youtube.com/watch?v=QOjtk_OXzsk
  ## License
 
  MIT License

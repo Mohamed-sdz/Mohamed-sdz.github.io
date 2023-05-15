@@ -8,7 +8,7 @@
 - Responsive design
 - Navigation menu with links to different sections
 - Information about my skills and services
-- Portfolio section showcasing his previous work
+- Portfolio section showcasing my previous work and learninig
 - Contact for users to get in touch with me 
 
 ## Technologies Used
